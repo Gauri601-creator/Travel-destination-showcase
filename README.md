@@ -1,2 +1,15 @@
 # java-mini-project
-a project is made for foreigners to guide them in the city of dreams that is mumbai  in this we are covering top 10 places in mumbai and giving a tourists valuable insight of it
+🌍 Travel Destination Showcase
+
+**Travel Destination Showcase** is a visually engaging web application that highlights popular travel destinations in mumbai. It helps users explore destinations, discover key attractions, and get inspired to plan their next journey by seeing the feedbacks from user
+
+
+
+## ✨ Features
+
+- 🗺️ Browse curated travel destinations  
+- 📸 High-quality images and galleries  
+- 📍 Destination details (location, highlights, best time to visit)  
+- 🔎 See feedback of tourist and then plan
+- 📱 Fully responsive design  
+- 🌐 Smooth and user-friendly UI 
